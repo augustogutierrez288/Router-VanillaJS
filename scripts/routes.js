@@ -1,3 +1,4 @@
+//JSON that houses the routes of each component (view).
 const PATHS = {
     home: {
         path: "/index.html",

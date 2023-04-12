@@ -1,6 +1,6 @@
 class Router {
     /**
-     * Metodo inicial.
+     * Initial method.
      *
      * @return {void}.
      */
@@ -10,7 +10,7 @@ class Router {
     }
 
     /**
-     * Permite inicializar el router
+     * Allows you to initialize the router.
      *
      * @return {void}.
      */
@@ -21,7 +21,7 @@ class Router {
     }
 
     /**
-     * Permite iniciar la carga de paginas.
+     * Lets you start loading pages.
      *
      * @return {void}.
      */
