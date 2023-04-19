@@ -16,7 +16,7 @@ class Router {
      */
     initRouter() {
         const { location: {pathname = "/"} } = window;
-        const url = pathname === "/index.html" ? "home" : pathname.replace("/", "");
+        const url = pathname === "/" ? "home" : pathname.replace("/", "");
         this.load(url);
     }
 
